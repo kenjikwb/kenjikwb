@@ -1,4 +1,15 @@
-## Hi there 👋
+# Fabio Kenji Kawabe | Economista & Data Analyst Financeiro
+
+📊 **Especialidade**: Transformando dados financeiros em insights estratégicos
+
+🔧 **Tecnologias**: Python, SQL, Power BI, Pandas, Scikit-learn
+
+📈 **Projetos Destacados**:
+- [Análise de Risco de Crédito] (link)
+- [Previsão de Inflação IPCA] (link)
+- [Dashboard de Fundos Imobiliários] (link)
+
+💼 **Certificações**: CEA, Python para Dados (DataCamp), SQL Avançado (Coursera)
 
 <!--
 **kenjikwb/kenjikwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
