@@ -5,7 +5,7 @@
 🔧 **Tecnologias**: Python, SQL, Power BI, Pandas, Scikit-learn
 
 📈 **Projetos Destacados**:
-- [Análise de Risco de Crédito] (link)
+- [Análise de Despesas Públicas] [https://github.com/kenjikwb/analise-despesas-viagens-2024]
 - [Previsão de Inflação IPCA] (link)
 - [Dashboard de Fundos Imobiliários] (link)
 
