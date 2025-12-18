@@ -1,4 +1,4 @@
-# Fabio Kenji Kawabe | Economista & Data Analyst Financeiro
+# Fabio Kenji Kawabe | Economista & Data Analyst
 
 📊 **Especialidade**: Transformar dados financeiros em insights estratégicos
 
