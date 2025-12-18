@@ -1,15 +1,28 @@
-# Fabio Kenji Kawabe | Economista & Data Analyst
+# 👋 Olá! Eu sou Fabio Kenji Kawabe
 
-📊 **Especialidade**: Transformar dados financeiros em insights estratégicos
+## 📊 Engenheiro de Dados em Formação | Economista
 
-🔧 **Tecnologias**: Python, SQL, Power BI, Pandas, Scikit-learn
+Sou economista em transição para **Engenharia de Dados**, combinando sólida base analítica com habilidades técnicas em manipulação, transformação e pipeline de dados. Certificado **CEA** (Consultor de Investimentos) e desenvolvendo expertise em tecnologias modernas de dados.
 
-📈 **Projetos Destacados**:
-- [Análise de Despesas Públicas com Viagem](https://github.com/kenjikwb/analise-despesas-viagens-2024)
-- [Previsão de Inflação IPCA] (link)
-- [Dashboard de Fundos Imobiliários] (link)
+🔧 **Tecnologias**: Python (Pandas & Matplotlib), SQL, Snowflake
 
-💼 **Certificações**: CEA, Python para Dados (Azimov), SQL Avançado (Coursera)
+## 📂 Projetos em Destaque
+
+### 🚀 [Análise de Despesas Públicas com Viagem](https://github.com/kenjikawabe/analise-despesas-viagens-2024)
+Análise exploratória de dados do Portal da Transparência usando Python:
+- **Tratamento e Limpeza**: Tratamento de 700k+ registros de viagens públicas
+- **Transformação**: Agregações avançadas com Pandas (groupby, filtering)
+- **Análise**: Identificação de padrões de gastos e detecção de outliers
+- **Visualização**: Gráficos para comunicação de insights
+
+**Tecnologias**: Python, Pandas, Matplotlib | **Curso**: Asimov Academy
+
+## 🎓 Formação & Certificações
+
+- **Bacharelado em Economia** - 7º período (Conclusão: 2026)
+- **CEA** - Certificação de Especialista em Investimentos (ANBIMA)
+- **Python para Dados** - Asimov Academy
+- **SQL Avançado** - DataCamp (Em andamento)
 
 <!--
 **kenjikwb/kenjikwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
