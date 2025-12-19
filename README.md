@@ -8,7 +8,7 @@ Sou economista em transição para **Engenharia de Dados**, combinando sólida b
 
 ## 📂 Projetos em Destaque
 
-### 🚀 [Análise de Despesas Públicas com Viagem](https://github.com/kenjikawabe/analise-despesas-viagens-2024)
+### 🚀 [Análise de Despesas Públicas com Viagem](https://github.com/kenjikwb/analise-despesas-viagens-2024)
 Análise exploratória de dados do Portal da Transparência usando Python:
 - **Tratamento e Limpeza**: Tratamento de 700k+ registros de viagens públicas
 - **Transformação**: Agregações avançadas com Pandas (groupby, filtering)
