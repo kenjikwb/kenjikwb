@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou Fabio Kenji Kawabe
+# Fabio Kenji Kawabe
 
 ## 📊 Engenheiro de Dados em Formação | Economista
 
