@@ -24,7 +24,7 @@ Análise exploratória de dados do Portal da Transparência usando Python:
 - **Bacharelado em Economia** - 7º período (Conclusão: 2026)
 - **CEA** - Certificação de Especialista em Investimentos (ANBIMA)
 - **Python para Dados** - Asimov Academy
-- **SQL Avançado** - DataCamp (Em andamento)
+- **SQL Avançado** - DataCamp 
 
 <!--
 **kenjikwb/kenjikwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
