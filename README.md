@@ -4,7 +4,7 @@
 
 Sou economista em transição para **Engenharia de Dados**, combinando sólida base analítica com habilidades técnicas em manipulação, transformação e pipeline de dados. Certificado **CEA** (Consultor de Investimentos) e desenvolvendo expertise em tecnologias modernas de dados.
 
-🔧 **Tecnologias**: Python (Pandas, Matplotlib), SQL (ANSI, PostgreSQL)
+🔧 **Tecnologias**: Python (Pandas, Matplotlib), SQL Intermediário (ANSI, PostgreSQL)
 
 🛠️ **Skills**: Snowflake • PostgreSQL • CTEs • ETL • Data Warehousing • Data Modeling
 
