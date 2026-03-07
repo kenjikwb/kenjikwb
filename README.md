@@ -17,7 +17,7 @@ Análise exploratória de dados do Portal da Transparência usando Python:
 - **Análise**: Identificação de padrões de gastos e detecção de outliers
 - **Visualização**: Gráficos para comunicação de insights
 
-**Tecnologias**: Python, Pandas, Matplotlib | **Curso**: Asimov Academy
+**Tecnologias**: Python, Pandas, Matplotlib 
 
 ## 🎓 Formação & Certificações
 
