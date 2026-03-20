@@ -56,7 +56,7 @@ Identificação de padrões de gastos por cargo e investigação de outliers com
 
 ---
 
-### 📈 Regressão Múltipla — Econometria Aplicada
+### 📈 Regressão Múltipla — Econometria Aplicada *(em andamento)*
 Análise econométrica utilizando regressão múltipla em Python. Aplicação de conceitos de causalidade, controle de variáveis e inferência estatística em dados reais.
 
 `Python` `Pandas` `Statsmodels` `Econometria`
